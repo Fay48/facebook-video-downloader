@@ -38,7 +38,7 @@ function getBetween($content,$start,$end){
 
     <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
       <header class="masthead mb-auto text-center">
-          <h3><a href="https://nhatkythuthuat.com">HebiroteX</a></h3>
+          <h3><a href="https://github.com/Fay48/facebook-video-downloader/">Facebook Video Downloader - HebiroteX</a></h3>
       </header>
 
       <main role="main" class="inner cover">
