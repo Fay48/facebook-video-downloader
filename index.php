@@ -1,5 +1,4 @@
 <?php
-//$q="https://www.facebook.com/940863846094937/videos/940927409421914/";
 function getBetween($content,$start,$end){
 	$r = explode($start, $content);
 	if (isset($r[1])){
